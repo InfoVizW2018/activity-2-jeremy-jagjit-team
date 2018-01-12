@@ -3,7 +3,6 @@ _Presented by - Jagjit Singh and Jeremy Zhang_
 
 ### Assumptions
 1) We assume that a ferry takes and hour to load and unload on a dock.
-2)
 ### What Why How
 WHAT?
 
@@ -26,6 +25,7 @@ Final sept is to compare(QUERY) the routes that are more popular than other to r
 HOW?
 
 Firstly, validating the domain situation and designing the visual encoding we apply the algorithm to achieve the design presented. Each ferry docks at a port and takes an hour time and giving us an idea on how free the port is for multiple ferry rides.
+
 ### Design-Study
 If we follow the design study methodology for this task, we will divide the visualization process into nine stages and keep an eye on pitfalls during each level:
 1. Precondition
@@ -41,6 +41,6 @@ If we follow the design study methodology for this task, we will divide the visu
 * Reflect - How our design can reflect back on the design study and can be cross implemented with different platforms. Refine the guidelines used and reject the one that never worked.
 * Write - The last step will be to document our work, design-study paper is the final output of the process.
 
-###Important pitfalls to be considered:
+### Important pitfalls to be considered:
 1) PF-2: We understand that this a part of the class activity, but we do not have sufficient knowledge of the vis literature. We have been introduced to "WHAT?" and "WHY?" but no idea on "HOW?".
 2) PF-5: Visualization requires time commitment from domain experts also best design results are achieved if these studies are conducted in the workplace of collaborators.
