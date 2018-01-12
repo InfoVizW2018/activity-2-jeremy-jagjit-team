@@ -1,10 +1,10 @@
 # Activity 2: Seaspan Ferry Scheduling Visualization
 _Presented by - Jagjit Singh and Jeremy Zhang_
 
-###Assumptions
+### Assumptions
 1) We assume that a ferry takes and hour to load and unload on a dock.
 2)
-###What Why How
+### What Why How
 WHAT?
 
 We have table as - DATASET
@@ -26,7 +26,7 @@ Final sept is to compare(QUERY) the routes that are more popular than other to r
 HOW?
 
 Firstly, validating the domain situation and designing the visual encoding we apply the algorithm to achieve the design presented. Each ferry docks at a port and takes an hour time and giving us an idea on how free the port is for multiple ferry rides.
-###Design-Study
+### Design-Study
 If we follow the design study methodology for this task, we will divide the visualization process into nine stages and keep an eye on pitfalls during each level:
 1. Precondition
 * Learn - Getting knowledge on visualization techniques, design and interaction techniques. Learning evaluation for visualization for use in later stage of process.
